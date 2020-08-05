@@ -1,0 +1,8 @@
+{
+    "private": true,
+    "dependencies": {
+        "@types/extract-files": "*",
+        "@apollo/client": "^3.0.0",
+        "graphql": "^14.5.3"
+    }
+}
